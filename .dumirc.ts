@@ -6,5 +6,5 @@ export default defineConfig({
     name: 'jx-dumi-ui',
   },
   base: '/jx-dumi-ui',
-  publicPath: '/jx-dumi-ui',
+  publicPath: '/jx-dumi-ui/',
 });
