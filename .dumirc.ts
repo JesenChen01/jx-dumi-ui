@@ -5,6 +5,6 @@ export default defineConfig({
   themeConfig: {
     name: 'jx-dumi-ui',
   },
-  base: '/jx-dumi-ui',
+  base: '/jx-dumi-ui/',
   publicPath: '/jx-dumi-ui/',
 });
