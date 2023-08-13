@@ -4,9 +4,9 @@ hero:
   description: react components
   actions:
     - text: Hello
-      link: /
+      link: /guide
     - text: World
-      link: /
+      link: /guide
 features:
   - title: Hello
     emoji: 💎
@@ -18,5 +18,3 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-jx-dumi-ui
