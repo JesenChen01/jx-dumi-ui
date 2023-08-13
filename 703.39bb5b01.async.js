@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjx_dumi_ui=self.webpackChunkjx_dumi_ui||[]).push([[703],{93703:function(r,n,u){u.r(n),u.d(n,{Foo:function(){return i}});var c=u(67294),o=u(85893),t=function(s){return(0,o.jsx)("h4",{children:s.title})},i=t}}]);
